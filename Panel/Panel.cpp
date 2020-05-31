@@ -17,3 +17,15 @@
 	You should have received a copy of the GNU General Public License
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
+
+
+#include "Arduino.h"
+#include "Panel.h"
+
+Panel::Panel() {
+	this->SetPins()
+}
+
+void Panel::SetPins() {
+	
+}
