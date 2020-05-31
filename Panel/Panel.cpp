@@ -1,1 +1,3 @@
-
+/*
+Library for control panel
+*/
